@@ -2,7 +2,7 @@
 
 ![Platform](https://img.shields.io/badge/platform-Windows-0078D6?logo=windows&logoColor=white)
 ![AutoHotkey](https://img.shields.io/badge/AutoHotkey-v2.0-blue?logo=autohotkey)
-![Release](https://img.shields.io/badge/release-v1.0.0-green)
+![Release](https://img.shields.io/badge/release-v1.2.0-green)
 ![Downloads](https://img.shields.io/github/downloads/kbenin/WinDisplayHelper-Portable/total?style=flat-square&color=brightgreen)
 ![License](https://img.shields.io/badge/license-MIT-yellow)
 
