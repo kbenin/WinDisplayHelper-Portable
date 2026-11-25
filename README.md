@@ -8,7 +8,7 @@
 
 A lightweight, discreet, zero-install Windows 11 utility that automatically hides a selected application's window and bottom taskbar icon—and optionally mutes its audio—whenever you switch to another window, while keeping the program running smoothly in the background.
 
-<img width="382" height="355" alt="setup" src="https://github.com" />
+<img width="382" height="355" alt="setup" src="https://github.com/user-attachments/assets/c0fa4a2f-e478-4f08-972d-f2713def9f90" />
 
 ---
 
