@@ -106,3 +106,11 @@ WinDisplayHelper-Portable/
 ### `v1.0.0`
 * Packaged `WinDisplayHelper.ahk` with signed `AutoHotkey64.exe` and relative-path `StartHelper.bat` launcher.
 * Implemented zero-blink hiding (`SW_FORCEMINIMIZE` + `WS_EX_TOOLWINDOW` + `SW_HIDE`), event-driven foreground hook (`SetWinEventHook`), and cursor-safe exit cleanup (`SW_SHOWMINNOACTIVE` + `ClipCursor`).
+
+---
+
+## ☕ Support the Project
+
+**WinDisplayHelper Portable** is completely free and open-source under the MIT License. If this utility saves you time or keeps your desktop clean while gaming and multitasking, consider leaving a tip to support future updates:
+
+[![Support me on Ko-fi](https://ko-fi.com/kbenin)](https://ko-fi.com/kbenin)
