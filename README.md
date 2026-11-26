@@ -113,4 +113,4 @@ WinDisplayHelper-Portable/
 
 **WinDisplayHelper Portable** is completely free and open-source under the MIT License. If this utility saves you time or keeps your desktop clean while gaming and multitasking, consider leaving a tip to support future updates:
 
-[![Support me on Ko-fi](https://ko-fi.com/kbenin)](https://ko-fi.com/kbenin)
+[![Support me on Ko-fi](https://img.shields.io/badge/Ko--fi-Support%20me-FF5E5B?logo=ko-fi&logoColor=white)](https://ko-fi.com/kbenin)
