@@ -5,6 +5,7 @@
 ![Release](https://img.shields.io/badge/release-v1.2.0-green)
 ![Downloads](https://img.shields.io/github/downloads/kbenin/WinDisplayHelper-Portable/total?style=flat-square&color=brightgreen)
 ![License](https://img.shields.io/badge/license-MIT-yellow)
+[![Ko-fi](https://shields.io)](https://ko-fi.com)
 
 A lightweight, discreet, zero-install Windows 11 utility that automatically hides a selected application's window and bottom taskbar icon—and optionally mutes its audio—whenever you switch to another window, while keeping the program running smoothly in the background.
 
